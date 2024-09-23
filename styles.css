@@ -1,0 +1,33 @@
+*{
+    background-color: aqua;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+
+}
+body{
+    border: 2px solid black;
+    text-align: center;
+    padding-bottom: 2em;
+    padding-top: 1em;
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 3em;
+    color: red;
+    background-color: antiquewhite;
+}
+textarea{
+    color: antiquewhite;
+    width: auto;
+    height:auto;
+    background-color: rgb(242, 220, 241);
+    color: blueviolet;
+    border-radius: 0.5rem;
+}
+button{
+    border: 2%;
+    border-radius: 1em;
+    background-color: rgb(231, 249, 115);
+
+}
